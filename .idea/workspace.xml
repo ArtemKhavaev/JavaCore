@@ -2,198 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fd910fc-f8b0-4eb6-a1ba-678f0f66b910" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/resource/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/resource/wp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/.idea/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson1/FirstLesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson1/Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson10Generics/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson10Generics/Garage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson10Generics/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson10Generics/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson10Generics/Primitive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson10Generics/Transport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson11Collections/CollectionLesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson11Collections/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson11Collections/enums/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson11Collections/enums/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson11Collections/homeWork/ClassWorkTasks/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson11Collections/homeWork/Employee/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson11Collections/homeWork/Employee/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson11Collections/homeWork/Message/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson11Collections/homeWork/Message/MessageTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson12Map/MapLesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson12Map/Tasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson12Map/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson12Map/WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson13Exception/CheckedExeption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson13Exception/ExeptionLession.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson13Exception/HomeWork/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson13Exception/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson13Exception/UncheckedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson14IOSerialization/Homework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson14IOSerialization/IOLesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson14IOSerialization/message/Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson14IOSerialization/message/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson14IOSerialization/message/MessageClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson14IOSerialization/message/MessageServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson14IOSerialization/serialization/LaunchStatistic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson14IOSerialization/serialization/LaunchStatisticExternalizable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson14IOSerialization/serialization/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson15NIO/NIOBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson15NIO/selectors/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson15NIO/selectors/NIOFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson15NIO/selectors/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson15NIO/selectors/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson16Lambda/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson16Lambda/FunctionalInterfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson16Lambda/LambdaAndVars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson16Lambda/StudentFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson16Lambda/UserConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson17Stream/CollectorsLesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson17Stream/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson17Stream/MyCollector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson17Stream/SpliteratorLesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson17Stream/StreamAPILession.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson17Stream/WPStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson17Stream/tasks/task1/StudentTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson17Stream/tasks/task2/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson17Stream/tasks/task2/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson17Stream/tasks/task2/TransactionTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson17Stream/tasks/task3/Pupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson17Stream/tasks/task3/PupilTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson18GC/GarbageCollector" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson18GC/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson19Reflection/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson19Reflection/ReflectionLession.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson19Reflection/TextMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson20Annotation/AnnotationLesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson20Annotation/MethodInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson20Annotation/task/Exclude.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson20Annotation/task/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson20Annotation/task/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson20Annotation/task/task2/ConfigClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson20Annotation/task/task2/Container.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson20Annotation/task/task2/InitClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson20Annotation/task/task2/InitProp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson20Annotation/task/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson20Annotation/task/task2/RunMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson20Annotation/task/task2/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson20Annotation/task/task2/ServerSettings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson21ThreadCreate/MTFirstLesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson21ThreadCreate/tasks/MTTasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson21ThreadCreate/tasks/exe/MTTasksExecuter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson21ThreadCreate/tasks/exe/Thread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson21ThreadCreate/tasks/exe/Thread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson21ThreadCreate/tasks/exe/Thread3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson22Sychronized/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson22Sychronized/SychronizeLession.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson22Sychronized/ThreadLocalLesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson22Sychronized/Threads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson22Sychronized/WaitNotifyLesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson22Sychronized/homework/homework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson22Sychronized/sinchronizedTask/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson22Sychronized/sinchronizedTask/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson22Sychronized/sinchronizedTask/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson22Sychronized/task/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson23ConcurredCollectionQueue/BlockingQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson23ConcurredCollectionQueue/ThreadSafeCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson23ConcurredCollectionQueue/homework3/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson23ConcurredCollectionQueue/homework3/Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson23ConcurredCollectionQueue/homework3/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson23ConcurredCollectionQueue/homework3/OtherClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson23ConcurredCollectionQueue/homework3/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson23ConcurredCollectionQueue/task/Restorant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson23ConcurredCollectionQueue/task/dz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson24Executor/CallableAndFutureTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson24Executor/ExecutorLesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson25MTClasses/AtomicExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson25MTClasses/CountDownLatchExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson25MTClasses/ExchangeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson25MTClasses/SemaphoreExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson25MTClasses/tasks/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson25MTClasses/tasks/McDahc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson25MTClasses/tasks/Port.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson25MTClasses/tasks/dz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson26PatternSingletonDecorator/CommonPatternLesson" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson26PatternSingletonDecorator/decorator/DecoratorPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson26PatternSingletonDecorator/singleton/Patterns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson26PatternSingletonDecorator/singleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson27BuilderListenerPrototypeCommand/builder/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson27BuilderListenerPrototypeCommand/builder/NutritionFacts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson27BuilderListenerPrototypeCommand/command/ConectionsCountCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson27BuilderListenerPrototypeCommand/command/Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson27BuilderListenerPrototypeCommand/command/DefaultCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson27BuilderListenerPrototypeCommand/command/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson27BuilderListenerPrototypeCommand/command/MessageClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson27BuilderListenerPrototypeCommand/command/MessageServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson27BuilderListenerPrototypeCommand/command/ServerCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson27BuilderListenerPrototypeCommand/command/TimeCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson27BuilderListenerPrototypeCommand/listener/Agency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson27BuilderListenerPrototypeCommand/listener/Listener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson27BuilderListenerPrototypeCommand/listener/tasks/Alarm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson27BuilderListenerPrototypeCommand/listener/tasks/Sensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson27BuilderListenerPrototypeCommand/listener/tasks/dz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson27BuilderListenerPrototypeCommand/prototype/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson27BuilderListenerPrototypeCommand/prototype/IClone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson28/bd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson2Array/ArrayLesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson2Array/HomeWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson3String/RegEX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson3String/StringLesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson4OOP/Apples/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson4OOP/Apples/Garden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson4OOP/Apples/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson4OOP/Apples/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson4OOP/Cats/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson4OOP/Cats/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson5/Library/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson5/Library/ClassOOP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson5/Library/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson5/Library/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson6/Units/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson6/Units/Units/AttackAble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson6/Units/Units/BattleUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson6/Units/Units/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson6/Units/Units/King.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson6/Units/Units/Knight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson6/Units/Units/RestAble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson6/Units/Units/Unit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson6/Units/Units/Warrior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson7/Farm/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson7/Farm/Farmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson7/Farm/HomeAnimal/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson7/Farm/HomeAnimal/Caw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson7/Farm/HomeAnimal/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson7/Farm/HomeAnimal/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson7/Farm/HomeAnimal/HomeAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson7/Farm/HomeAnimal/Rabbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson7/Farm/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson7/Farm/Owner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson7/Farm/WildAnimal/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson7/Farm/WildAnimal/Fox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson7/Farm/WildAnimal/WildAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson7/Farm/WildAnimal/Wolf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson8Static/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson8Static/Owner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson8Static/finaloperator/Massage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson8Static/finaloperator/Writer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson8Static/object.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson8Static/staticoperator/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson8Static/staticoperator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson9DataTime/DataTimeApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/com/domain/lesson9DataTime/HomeWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,6 +30,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\artem\IdeaProjects\JavaCore\.idea" />
+    </key>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -244,12 +58,36 @@
       <option name="presentableId" value="Default" />
       <updated>1581486595868</updated>
     </task>
+    <task id="LOCAL-00001" summary="JavaCore lessons">
+      <created>1581486891003</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581486891003</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JavaCore lessons" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaCore lessons" />
   </component>
   <component name="WindowStateProjectService">
     <state x="492" y="232" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581486825758">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="492" y="232" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1581486825758" />
+    <state x="325" y="0" key="CommitChangelistDialog2" timestamp="1581486888719">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1581486888719" />
+    <state x="526" y="241" width="237" height="199" key="Github.ShareDialog" timestamp="1581487299479">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="526" y="241" width="237" height="199" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1581487299479" />
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1581487379002">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1581487379002" />
   </component>
 </project>
