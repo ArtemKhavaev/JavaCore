@@ -70,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581487470718</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="JavaCore lessons">
+      <created>1581487767552</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581487767552</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -78,21 +85,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="JavaCore lessons" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581487874121">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1581487874121" />
     <state x="492" y="232" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581486825758">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="492" y="232" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1581486825758" />
-    <state x="325" y="0" key="CommitChangelistDialog2" timestamp="1581487743154">
+    <state x="325" y="0" key="CommitChangelistDialog2" timestamp="1581487766323">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="325" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1581487743154" />
-    <state x="526" y="241" width="237" height="199" key="Github.ShareDialog" timestamp="1581487299479">
+    <state x="325" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1581487766323" />
+    <state x="526" y="241" width="237" height="199" key="Github.ShareDialog" timestamp="1581487908710">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="526" y="241" width="237" height="199" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1581487299479" />
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1581487600183">
+    <state x="526" y="241" width="237" height="199" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1581487908710" />
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1581487856371">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1581487600183" />
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1581487856371" />
   </component>
 </project>
