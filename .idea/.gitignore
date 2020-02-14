@@ -6,3 +6,9 @@ log/
 target/
 # Default ignored files
 /workspace.xml
+.idea/
+*.iml
+*.iws
+
+log/
+target/
